@@ -1,0 +1,21 @@
+button{
+    float:right;
+    font-size: medium;
+    background-color: brown;
+    color:white;
+}
+#p1{
+    font-size: 30px;
+}
+#p2{
+    font-size: 30px;
+}
+#button3{
+    float: left;
+}
+body{
+    background-color: cyan;
+}
+canvas{
+    border-radius: 20px;
+}
